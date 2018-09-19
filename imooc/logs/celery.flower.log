@@ -1,0 +1,192 @@
+[I 180507 04:42:00 command:133] Visit me at http://localhost:5555
+[I 180507 04:42:00 command:138] Broker: redis://localhost:6379/1
+[I 180507 04:42:00 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180507 04:42:00 mixins:231] Connected to redis://localhost:6379/1
+[W 180507 04:42:02 control:44] 'active' inspect method failed
+[W 180507 04:42:02 control:44] 'conf' inspect method failed
+[I 180507 04:43:05 command:47] SIGTERM detected, shutting down
+[I 180507 04:45:16 command:133] Visit me at http://localhost:5555
+[I 180507 04:45:16 command:138] Broker: redis://localhost:6379/1
+[I 180507 04:45:16 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180507 04:45:16 mixins:231] Connected to redis://localhost:6379/1
+[W 180507 04:45:19 control:44] 'stats' inspect method failed
+[W 180507 04:45:19 control:44] 'active_queues' inspect method failed
+[W 180507 04:45:19 control:44] 'registered' inspect method failed
+[W 180507 04:45:19 control:44] 'scheduled' inspect method failed
+[W 180507 04:45:19 control:44] 'active' inspect method failed
+[W 180507 04:45:19 control:44] 'reserved' inspect method failed
+[W 180507 04:45:19 control:44] 'revoked' inspect method failed
+[W 180507 04:45:19 control:44] 'conf' inspect method failed
+[I 180507 04:46:44 command:47] SIGTERM detected, shutting down
+[I 180507 04:46:47 command:133] Visit me at http://localhost:5555
+[I 180507 04:46:47 command:138] Broker: redis://localhost:6379/1
+[I 180507 04:46:47 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180507 04:46:47 mixins:231] Connected to redis://localhost:6379/1
+[W 180507 04:46:49 control:44] 'stats' inspect method failed
+[W 180507 04:46:49 control:44] 'active_queues' inspect method failed
+[W 180507 04:46:49 control:44] 'registered' inspect method failed
+[W 180507 04:46:49 control:44] 'scheduled' inspect method failed
+[W 180507 04:46:49 control:44] 'active' inspect method failed
+[W 180507 04:46:49 control:44] 'reserved' inspect method failed
+[W 180507 04:46:49 control:44] 'revoked' inspect method failed
+[W 180507 04:46:49 control:44] 'conf' inspect method failed
+[I 180507 04:47:15 command:47] SIGTERM detected, shutting down
+[I 180507 04:47:19 command:133] Visit me at http://localhost:5555
+[I 180507 04:47:19 command:138] Broker: redis://localhost:6379/1
+[I 180507 04:47:19 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180507 04:47:19 mixins:231] Connected to redis://localhost:6379/1
+[W 180507 04:47:22 control:44] 'stats' inspect method failed
+[W 180507 04:47:22 control:44] 'active_queues' inspect method failed
+[W 180507 04:47:22 control:44] 'registered' inspect method failed
+[W 180507 04:47:22 control:44] 'scheduled' inspect method failed
+[W 180507 04:47:22 control:44] 'active' inspect method failed
+[W 180507 04:47:22 control:44] 'reserved' inspect method failed
+[W 180507 04:47:22 control:44] 'revoked' inspect method failed
+[W 180507 04:47:22 control:44] 'conf' inspect method failed
+[I 180507 04:48:13 command:47] SIGTERM detected, shutting down
+[I 180507 04:48:16 command:133] Visit me at http://localhost:5555
+[I 180507 04:48:16 command:138] Broker: redis://localhost:6379/1
+[I 180507 04:48:16 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180507 04:48:16 mixins:231] Connected to redis://localhost:6379/1
+[W 180507 04:48:19 control:44] 'stats' inspect method failed
+[W 180507 04:48:19 control:44] 'active_queues' inspect method failed
+[W 180507 04:48:19 control:44] 'registered' inspect method failed
+[W 180507 04:48:19 control:44] 'scheduled' inspect method failed
+[W 180507 04:48:19 control:44] 'active' inspect method failed
+[W 180507 04:48:19 control:44] 'reserved' inspect method failed
+[W 180507 04:48:19 control:44] 'revoked' inspect method failed
+[W 180507 04:48:19 control:44] 'conf' inspect method failed
+[I 180507 04:48:37 command:47] SIGTERM detected, shutting down
+[I 180507 04:48:45 command:133] Visit me at http://localhost:5555
+[I 180507 04:48:45 command:138] Broker: redis://localhost:6379/1
+[I 180507 04:48:45 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180507 04:48:45 mixins:231] Connected to redis://localhost:6379/1
+[W 180507 04:48:47 control:44] 'stats' inspect method failed
+[W 180507 04:48:47 control:44] 'active_queues' inspect method failed
+[W 180507 04:48:47 control:44] 'registered' inspect method failed
+[W 180507 04:48:47 control:44] 'scheduled' inspect method failed
+[W 180507 04:48:47 control:44] 'active' inspect method failed
+[W 180507 04:48:47 control:44] 'reserved' inspect method failed
+[W 180507 04:48:47 control:44] 'revoked' inspect method failed
+[W 180507 04:48:47 control:44] 'conf' inspect method failed
+[I 180507 04:49:15 command:47] SIGTERM detected, shutting down
+[I 180507 04:49:25 command:133] Visit me at http://localhost:5555
+[I 180507 04:49:25 command:138] Broker: redis://localhost:6379/1
+[I 180507 04:49:25 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180507 04:49:25 mixins:231] Connected to redis://localhost:6379/1
+[W 180507 04:49:28 control:44] 'stats' inspect method failed
+[W 180507 04:49:28 control:44] 'active_queues' inspect method failed
+[W 180507 04:49:28 control:44] 'registered' inspect method failed
+[W 180507 04:49:28 control:44] 'scheduled' inspect method failed
+[W 180507 04:49:28 control:44] 'active' inspect method failed
+[W 180507 04:49:28 control:44] 'reserved' inspect method failed
+[W 180507 04:49:28 control:44] 'revoked' inspect method failed
+[W 180507 04:49:28 control:44] 'conf' inspect method failed
+[W 180507 04:49:41 web:1493] 404 GET /worker/celery@gantry.local (127.0.0.1): Unknown worker 'celery@gantry.local'
+[W 180507 04:49:43 web:1493] 404 GET /worker/celery@gantry.local (127.0.0.1): Unknown worker 'celery@gantry.local'
+[W 180507 04:49:45 web:1493] 404 GET /worker/celery@gantry.local (127.0.0.1): Unknown worker 'celery@gantry.local'
+[I 180509 00:29:48 command:133] Visit me at http://localhost:5555
+[I 180509 00:29:48 command:138] Broker: redis://localhost:6379/1
+[I 180509 00:29:48 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180509 00:29:48 mixins:231] Connected to redis://localhost:6379/1
+[I 180509 00:30:07 command:133] Visit me at http://localhost:5555
+[I 180509 00:30:07 command:138] Broker: redis://localhost:6379/1
+[I 180509 00:30:07 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180509 00:30:07 mixins:231] Connected to redis://localhost:6379/1
+[I 180509 00:30:26 command:133] Visit me at http://localhost:5555
+[I 180509 00:30:26 command:138] Broker: redis://localhost:6379/1
+[I 180509 00:30:26 command:141] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180509 00:30:26 mixins:231] Connected to redis://localhost:6379/1
+[W 180509 00:30:28 control:44] 'active' inspect method failed
+[W 180509 00:30:28 control:44] 'reserved' inspect method failed
+[W 180509 00:30:28 control:44] 'conf' inspect method failed
